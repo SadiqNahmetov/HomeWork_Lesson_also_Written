@@ -1,0 +1,14 @@
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation.exe
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation.deps.json
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation.runtimeconfig.json
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation.runtimeconfig.dev.json
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation.dll
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\Inheritance_Encapsulation.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation.AssemblyInfo.cs
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation.dll
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Inheritance_Encapsulation\Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\Inheritance_Encapsulation.genruntimeconfig.cache
